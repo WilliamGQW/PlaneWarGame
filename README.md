@@ -1,4 +1,4 @@
-# CS 126 FinalProject: Plane War
+# Plane War
 # Demo Link: [https://www.youtube.com/watch?v=dMNQnxF3fbs&feature=youtu.be](https://www.youtube.com/watch?v=dMNQnxF3fbs&feature=youtu.be)
 
 ## Tech/framework used:
