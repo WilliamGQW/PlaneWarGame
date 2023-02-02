@@ -1,12 +1,15 @@
-# Plane War
-# Demo Link: [https://www.youtube.com/watch?v=dMNQnxF3fbs&feature=youtu.be](https://www.youtube.com/watch?v=dMNQnxF3fbs&feature=youtu.be)
+# Plane War Game 
+
+## Demo Link: [https://www.youtube.com/watch?v=dMNQnxF3fbs&feature=youtu.be](https://www.youtube.com/watch?v=dMNQnxF3fbs&feature=youtu.be)
 
 ## Tech/framework used:
-[openframeworks](http://openframeworks.cc/)
+- [openframeworks](http://openframeworks.cc/)
+- C++
 
 ## Description of the Project:
 This Plane War project is a 2D shooting game. The logic and rule for the game is straight forward. The user can use mouse to control a hero plane to shoot down enemy planes. Boss will also be automatically generated based on the score received. 
-#### Interesting features
+
+## Interesting features
 1. The game have two different levels: easy level and hard level. Certain points is required to enter the hard level;
 2. The user can press "p" to pause the game and press again to continue;
 3. The real-time score will be printed at the up-left corner on the screen;
